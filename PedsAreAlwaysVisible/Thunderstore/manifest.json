@@ -1,0 +1,10 @@
+{
+    "name": "PedsAreAlwaysVisible",
+    "version_number": "0.9.0",
+    "website_url": "https://github.com/viliger2/BRC_SmallerMods/tree/main/DisableAnnoyingCutscenes",
+    "description": "Peds no longer disappear on higher heat levels.",
+    "dependencies": [
+	    "BepInEx-BepInExPack-5.4.2100",
+		"viliger-HookGenPatcher-1.2.10"
+    ]
+}
