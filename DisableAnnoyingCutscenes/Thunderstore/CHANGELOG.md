@@ -1,5 +1,5 @@
 <details>
-<summary>1.0.0 </summary>
+<summary>0.7.0 </summary>
 
 * Initial release
 </details>
